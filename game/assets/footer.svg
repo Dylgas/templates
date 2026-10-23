@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="See you in-game">
+<style>.t{font:800 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f8fafc;letter-spacing:1px} .s{font:500 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#cbd5e1}</style>
+<defs><clipPath id="c"><rect width="1200" height="150" rx="18"/></clipPath>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#581c87" stop-opacity=".9"/><stop offset="1" stop-color="#0b0f17"/></linearGradient></defs>
+<g clip-path="url(#c)">
+ <rect width="1200" height="150" fill="url(#bg)"/>
+ <path d="M0 100 Q150 88 300 100 Q450 112 600 100 Q750 88 900 100 Q1050 112 1200 100 Q1350 88 1500 100 Q1650 112 1800 100 Q1950 88 2100 100 Q2250 112 2400 100 V160 H0 Z" fill="#581c87" fill-opacity=".4"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/></path>
+ <path d="M0 116 Q150 132 300 116 Q450 100 600 116 Q750 132 900 116 Q1050 100 1200 116 Q1350 132 1500 116 Q1650 100 1800 116 Q1950 132 2100 116 Q2250 100 2400 116 V160 H0 Z" fill="#831843" fill-opacity=".3"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+</g>
+<rect x=".5" y=".5" width="1199" height="149" rx="18" fill="none" stroke="#fff" stroke-opacity=".1"/>
+<text x="600" y="64" text-anchor="middle" class="t">See you in-game</text>
+<text x="600" y="90" text-anchor="middle" class="s">Drop a ⭐ and tell your friends →</text>
+</svg>
