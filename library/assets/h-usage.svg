@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Usage">
+<style>.t{font:800 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f8fafc} .g{font:800 14px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;fill:#fff}
+ .r{transform-origin:32px 32px;animation:s 6s linear infinite} @keyframes s{to{transform:rotate(360deg)}}</style>
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<linearGradient id="sw" gradientUnits="userSpaceOnUse" x1="0" x2="240" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="-240 0" to="1200 0" dur="4s" repeatCount="indefinite"/></linearGradient></defs>
+<circle cx="32" cy="32" r="20" fill="url(#a)"/>
+<circle cx="32" cy="32" r="27" fill="none" stroke="url(#a)" stroke-width="2" stroke-dasharray="6 6" class="r"/>
+<text x="32" y="37" text-anchor="middle" class="g">&lt;/&gt;</text>
+<text x="72" y="41" class="t">Usage</text>
+<rect x="72" y="56" width="1128" height="2" fill="#30363d"/>
+<rect x="72" y="56" width="0" height="2" fill="url(#a)"><animate attributeName="width" from="0" to="1128" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="72" y="55" width="1128" height="4" fill="url(#sw)" opacity=".6"/>
+</svg>
